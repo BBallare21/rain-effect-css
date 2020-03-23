@@ -9,7 +9,7 @@ body {
 .rain {
     height: 100vh;
     background: url(./images/rain.png) no-repeat;
-    animation: rain .3s linear infinite;
+    animation: rain .5s linear infinite;
 }
 
 .rain:before {
